@@ -11,7 +11,7 @@ The author of this file cannot be held responsible or liable for any damages tha
 
 # ❓ How to Use?
 1. Download **"CudysPerformance.bat"**
-2. Run "AncelsPerformanceBatch.bat" as Administrator
+2. Run "CudysPerformance.bat" as Administrator
 3. Press the Number # for the Optimization you want, and click Enter
 
 # 🤝 Community
