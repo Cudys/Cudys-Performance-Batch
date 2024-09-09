@@ -2,7 +2,7 @@
 Cudy's Performance Batch is an Open Source Tweaker that was designed to improve computer performance and latency. The Tweaker is interactive so it allows the user to optimize their pc however they please. It is important to note that the results may vary depending on the system's configuration.
 
 <p align="center">
-<img src="https://github.com/Cudys/Cudys-Performance-Batch/blob/main/image/preview.png)" width="750">
+<img src="https://github.com/Cudys/Cudys-Performance-Batch/blob/main/images/preview.png" width="750">
 </p>
 
 # 🚨 Disclaimer
